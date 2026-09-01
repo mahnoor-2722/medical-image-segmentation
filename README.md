@@ -15,7 +15,8 @@
 
 ## 🌐 Live Demo
 
-🔗 **[Try the Live Streamlit App](https://YOUR-STREAMLIT-URL.streamlit.app)** ← *(Replace with your deployed URL)*  
+🔗 **[Try the Live Streamlit App](https://medical-image-segmentation-xaku9x6jg3eo5d89yxe8h3.streamlit.app/)*  
+
 🔗 **[Model on Hugging Face Hub](https://huggingface.co/mahnoor-2722/isic-segformer)**
 
 ---
